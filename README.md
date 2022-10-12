@@ -4,4 +4,5 @@ Program Studi Teknologi Informasi
 Universitas Sumatera Utara 
 Semester Ganjil 2022/2023.
 
+Dosen Pengampu: Dedy Arisandi S.T., M.Kom.
 Asisten Laboratorium: Mhd. Arsya Fikri | 191402066
